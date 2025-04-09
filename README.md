@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YapChat
 
 A new Flutter project created with FlutLab - https://flutlab.io
@@ -17,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+=======
+# Actividad_FlutterFinal
+>>>>>>> 9d794502148ae4535e9b4a63b5da72e381cf717e
